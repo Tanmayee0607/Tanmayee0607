@@ -11,7 +11,7 @@ I am a passionate Engineering student focused on building intelligent hardware s
 * 🛰️ **Recent Project:** Ultrasonic/Sonar Radar Security System using Arduino
 * 🌱 **Interests:** Sustainable Tech & Automating daily-life solutions
 * **Certifications:** [Introduction to Generative AI Learning Path](https://coursera.org/verify/specialization/QFP8FGYU18AI)
-*  [Responsible AI : Applying AI principles with Google Cloud](https://coursera.org/verify/3VCLL6XPHR8Z))
+*  [Responsible AI : Applying AI principles with Google Cloud](https://coursera.org/verify/3VCLL6XPHR8Z)
 ---
 
 ## 🛠️ Technical Toolbox
