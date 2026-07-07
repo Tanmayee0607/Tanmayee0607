@@ -10,7 +10,7 @@ I am a passionate Engineering student focused on building intelligent hardware s
 * 🛠️ **Current Focus:** Embedded Systems & Sensor Integration
 * 🛰️ **Recent Project:** Ultrasonic/Sonar Radar Security System using Arduino
 * 🌱 **Interests:** Sustainable Tech & Automating daily-life solutions
-
+* **Certifications:** [Introduction to Generative AI Learning Path](https://coursera.org/verify/specialization/QFP8FGYU18AI)
 ---
 
 ## 🛠️ Technical Toolbox
