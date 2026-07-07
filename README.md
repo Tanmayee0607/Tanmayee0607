@@ -7,7 +7,7 @@
 ## 🚀 About Me
 I am a passionate Engineering student focused on building intelligent hardware systems, robotics, and exploring sustainable engineering solutions. I love bringing ideas to life using microcontrollers, sensors, and clean code.
 
-* 🛠️ **Current Focus:** Embedded Systems & Sensor Integration
+* 🛠️ **Current Focus:** Expanding my technical toolkit through an industry-focused Data Science internship. Concentrating on data analytics, statistical modeling, and learning how to build scalable, data-driven systems.
 * 🛰️ **Recent Project:** Ultrasonic/Sonar Radar Security System using Arduino
 * 🌱 **Interests:** Sustainable Tech & Automating daily-life solutions
 * **Certifications:** [Introduction to Generative AI Learning Path](https://coursera.org/verify/specialization/QFP8FGYU18AI)
